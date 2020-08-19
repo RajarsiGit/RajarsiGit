@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajarsi Saha</h1>
-<h3 align="center">A passionate developer cum machine learning enthusiast from India</h3>
+<h3 align="center">
+    A passionate developer cum machine learning enthusiast from India
+    </br>
+    Currently pursuing Master of Science in Computer Science from Pondicherry University, India
+    Looking for good oprtunities in frontend developement as well as machine learning experiences. 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarsigit" alt="rajarsigit" /> </p>
 
