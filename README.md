@@ -2,8 +2,10 @@
 <h3 align="center">
     A passionate developer cum machine learning enthusiast from India
     </br>
-    Currently pursuing Master of Science in Computer Science from Pondicherry University, India
+    <h4>Currently pursuing Master of Science in Computer Science from Pondicherry University, India
+    </br>
     Looking for good oprtunities in frontend developement as well as machine learning experiences. 
+    </h4>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarsigit" alt="rajarsigit" /> </p>
