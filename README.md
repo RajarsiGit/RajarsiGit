@@ -8,7 +8,7 @@
     </h4>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarsigit" alt="rajarsigit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarsigit&color=ffff00&style=flat-square&label=PROFILE+VIEWS" alt="rajarsigit" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Flask, OpenCV**
 
