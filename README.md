@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rajarsi Saha</h1>
 <h3 align="center">
-    A passionate developer cum machine learning enthusiast from India
+    A passionate software developer from India
     </br>
-    <h4>Currently pursuing Master of Science in Computer Science from Pondicherry University, India
+    <h4>Currently pursuing Master of Science in Computer Science from Pondicherry University, India and working as a Software Engineer at SysCloud Technologies, India
     </br>
-    Looking for good oprtunities in frontend developement as well as machine learning experiences. 
+    Looking for good oprtunities in Database DevOps, Web development, etc.
     </h4>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarsigit&color=yellow&style=flat-square&label=PROFILE+VIEWS" alt="rajarsigit" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Flask, OpenCV**
+- 🌱 I’m currently learning **Database DevOps and Application development**
 
 - 👨‍💻 All of my projects are available at [github.com/RajarsiGit](github.com/RajarsiGit)
 
-- 💬 Ask me about **Flask, Js, Python**
+- 💬 Ask me about **Flask, Js, Ts, Database**
 
 - 📫 How to reach me **rajarsi3997@gmail.com**
 
