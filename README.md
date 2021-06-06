@@ -3,8 +3,6 @@
     A passionate software developer from India
     </br>
     <h4>Currently pursuing Master of Science in Computer Science from Pondicherry University, India and working as a Software Engineer at SysCloud Technologies, India
-    </br>
-    Looking for good oprtunities in Database DevOps, Web development, etc.
     </h4>
 </h3>
 
