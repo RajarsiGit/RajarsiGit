@@ -2,7 +2,7 @@
 <h3 align="center">
     A passionate software developer from India
     </br>
-    <h4>Currently pursuing Master of Science in Computer Science from Pondicherry University, India and working as a Software Engineer at SysCloud Technologies, India
+    <h4>Currently working as a Software Engineer at SysCloud Technologies, India
     </h4>
 </h3>
 
