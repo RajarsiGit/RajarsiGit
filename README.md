@@ -68,7 +68,7 @@
   <a href="https://stackoverflow.com/users/rajarsi-saha"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
   <a href="https://codesandbox.com/rajarsigit"><img src="https://skillicons.dev/icons?i=codepen" /></a>
   <a href="mailto:rajarsi3997@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://fb.com/rajarsi.saha.3997"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://wordpress.com/reader/users/rajarsisaha3997"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
   <a href="https://instagram.com/_razooooo_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
