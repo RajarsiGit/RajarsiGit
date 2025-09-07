@@ -13,21 +13,20 @@
 
 ---
 
+### ✨ Highlights
+- 🏆 **Certifications:** AWS Certified Solutions Architect, Azure Fundamentals *(example – update with yours)*  
+- 🚀 **Current Focus:** Architecting multi-cloud backup systems & scalable database infrastructures  
+- 🎤 **Speaking Engagements:** Delivered tech talks on **Database Optimization & Cloud Security** *(add links if available)*  
+- 📖 **Learning Journey:** MBA specialization in **Research Methodology & Data Science**  
+
+---
+
 ### 🛠️ Tech Stack
 <p>
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php" />
-  </br>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,dotnet,express,opencv" />
-  </br>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle,hive,hadoop" />
-  </br>
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,git,linux" />
-  </br>
-  <!-- Design -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php" /><br/>
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,dotnet,express,opencv" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle,hive,hadoop" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,git,linux" /><br/>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
 
@@ -58,9 +57,6 @@
 ### 📌 Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!-- This section updates automatically with GitHub Actions if you enable it -->
-1. 🎉 Pushed code to **RajarsiGit/your-repo**
-2. 📝 Opened issue in **RajarsiGit/your-repo**
-3. 🔄 Reviewed PR in **RajarsiGit/your-repo**
 <!--END_SECTION:activity-->
 
 ---
