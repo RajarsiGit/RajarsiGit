@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php" /><br/>
   <img src="https://skillicons.dev/icons?i=flask,nodejs,dotnet,express,opencv" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle,hive,hadoop" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,git,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,git,linux,vercel" /><br/>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
 
