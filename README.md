@@ -56,7 +56,6 @@
 
 ### 📌 Recent GitHub Activity
 <!--START_SECTION:activity-->
-<!-- This section updates automatically with GitHub Actions if you enable it -->
 <!--END_SECTION:activity-->
 
 ---
