@@ -34,22 +34,22 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajarsigit&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarsigit&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajarsiGit&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajarsiGit&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajarsigit&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RajarsiGit&theme=onedark&margin-w=15&margin-h=15&row=1&column=6" alt="trophies" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajarsigit&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajarsiGit&theme=tokyonight" alt="streak" />
 </p>
 
 ---
@@ -74,5 +74,5 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rajarsigit&label=Profile+Views&color=yellow&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RajarsiGit&label=Profile+Views&color=yellow&style=flat-square" alt="Profile Views" />
 </p>
