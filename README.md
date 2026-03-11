@@ -139,7 +139,7 @@ My work sits at the intersection of database engineering, cloud infrastructure, 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RajarsiGit&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=RajarsiGit&theme=flat&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
