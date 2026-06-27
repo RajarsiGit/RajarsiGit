@@ -139,7 +139,7 @@ My work sits at the intersection of database engineering, cloud infrastructure, 
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RajarsiGit)](https://github.com/RajarsiGit/github-profile-trophy)
 
 </div>
 
