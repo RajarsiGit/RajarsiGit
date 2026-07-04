@@ -130,8 +130,8 @@ My work sits at the intersection of database engineering, cloud infrastructure, 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RajarsiGit&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajarsiGit&layout=compact&theme=default&hide_border=true" />
+<img height="160em" src="https://github-profile-trophy-tawny.vercel.app/api?username=RajarsiGit&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-profile-trophy-tawny.vercel.app/api/top-langs/?username=RajarsiGit&layout=compact&theme=default&hide_border=true" />
 
 <br/>
 
