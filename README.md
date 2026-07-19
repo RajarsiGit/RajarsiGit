@@ -4,13 +4,14 @@
 
 **Technical Architect · Database Systems · Cloud Infrastructure**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajarsi-saha-2709a297)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_razooooo_)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/rajarsi-saha-2709a297)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/_razooooo_)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/rajarsi-saha)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajarsi3997@gmail.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/rajarsigits-projects)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RajarsiGit)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rajarsi3997)
+[![Npm](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~rajarsi3997)
 [![Profile Views](https://komarev.com/ghpvc/?username=RajarsiGit&label=Profile+Views&color=0A66C2&style=flat-square)](https://github.com/RajarsiGit)
 
 </div>
