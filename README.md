@@ -4,6 +4,7 @@
 
 **Technical Architect · Database Systems · Cloud Infrastructure**
 
+[![Resume](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://rajarsi.work)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/rajarsi-saha-2709a297)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/_razooooo_)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/rajarsi-saha)
