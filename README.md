@@ -12,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RajarsiGit)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rajarsi3997)
 [![Npm](https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~rajarsi3997)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1407804750292062280)
 [![Profile Views](https://komarev.com/ghpvc/?username=RajarsiGit&label=Profile+Views&color=0A66C2&style=flat-square)](https://github.com/RajarsiGit)
 
 </div>
