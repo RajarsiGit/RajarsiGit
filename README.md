@@ -10,6 +10,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajarsi3997@gmail.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/rajarsigits-projects)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RajarsiGit)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rajarsi3997)
 [![Profile Views](https://komarev.com/ghpvc/?username=RajarsiGit&label=Profile+Views&color=0A66C2&style=flat-square)](https://github.com/RajarsiGit)
 
 </div>
